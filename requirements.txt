@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+wordcloud
+nltk
+scikit-learn
+
+
+# nltk.download('stopwords')  # Stopwords ke liye
+# nltk.download('punkt')      # Tokenization ke liye
+
+# nltk.download('wordnet')  # Lemmatization ke liye
+# nltk.download('omw-1.4')  # WordNet ki dependencies
+
+# nltk.download('averaged_perceptron_tagger')  # POS tagging ke liye
+# nltk.download('maxent_ne_chunker')          # Named Entity Recognition (NER)
+# nltk.download('words')                      # NER ke words corpus ke liye
+
